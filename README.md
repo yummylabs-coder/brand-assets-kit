@@ -1,4 +1,4 @@
-# Brand Assets Kit for Claude Code
+# Brand assets kit for Claude Code
 
 Make Claude Code use **your real brand assets** in prototypes, instead of falling back to generic emojis and stock icons. Drop one folder into your project and Claude knows your logo, icons, and mascot, and when to reach for each one.
 
